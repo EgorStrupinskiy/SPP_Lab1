@@ -5,7 +5,7 @@ namespace Tracer
 {
     public class TraceResults
     {
-        public struct TraceResult
+        public readonly struct TraceResult
         {
             private readonly List<ThreadTraceResult> _threadTraceResults;
 

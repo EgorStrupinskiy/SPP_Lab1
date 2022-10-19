@@ -2,10 +2,10 @@ namespace Tracer
 {
     public interface ITracer
     {
-        void startTrace();
+        void StartTrace();
 
-        void stopTrace();
+        void StopTrace();
 
-        void getResults();
+        TraceResults.TraceResult GetTraceResult();
     }
 }

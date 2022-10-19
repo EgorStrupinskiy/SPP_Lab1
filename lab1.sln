@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab1", "lab1.csproj", "{D0E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tracer", "Tracer\Tracer.csproj", "{2F4BD2BD-7D21-43C2-BAED-0450AF4D8A3A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serializers", "Serializers\Serializers.csproj", "{15FC5B01-1E52-4F4D-803C-FB01902B9FD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{4D3E2758-EEA5-4A8D-BDA5-71DC7C589C31}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{2F4BD2BD-7D21-43C2-BAED-0450AF4D8A3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F4BD2BD-7D21-43C2-BAED-0450AF4D8A3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F4BD2BD-7D21-43C2-BAED-0450AF4D8A3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15FC5B01-1E52-4F4D-803C-FB01902B9FD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15FC5B01-1E52-4F4D-803C-FB01902B9FD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15FC5B01-1E52-4F4D-803C-FB01902B9FD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15FC5B01-1E52-4F4D-803C-FB01902B9FD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D3E2758-EEA5-4A8D-BDA5-71DC7C589C31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D3E2758-EEA5-4A8D-BDA5-71DC7C589C31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D3E2758-EEA5-4A8D-BDA5-71DC7C589C31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D3E2758-EEA5-4A8D-BDA5-71DC7C589C31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
