@@ -1,6 +1,6 @@
 ﻿using System.Threading;
 using Serializers;
-using spp_laba_1;
+using lab1;
 using Tracer;
 
 namespace lab1

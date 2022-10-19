@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace spp_laba_1
+namespace lab1
 {
     public class WriterToFile : Writer
     {
